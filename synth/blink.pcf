@@ -1,0 +1,5 @@
+set_io clock 6   # 12 MHz clock
+set_io io_led1 39
+set_io io_led2 40
+set_io io_led3 41
+set_io reset 2
